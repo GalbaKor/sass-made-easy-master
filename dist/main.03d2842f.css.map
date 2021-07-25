@@ -1,0 +1,1 @@
+{"version":3,"sources":["scss\\main.scss"],"names":[],"mappings":"AAEA,KACE,cAHI,CAIJ,QAAA,CACA","file":"main.03d2842f.css","sourceRoot":"..\\src","sourcesContent":["$red: red;\n\nbody {\n  background: $red;\n  margin: 0rem;\n  font-size: 2rem;\n}\n\n"]}
